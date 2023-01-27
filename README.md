@@ -1,4 +1,5 @@
-This is a [React App](https://create-react-app.dev/) project bootstrapped with [`Create React App`](https://create-react-app.dev/).
+#BChat - A simple React Chat App.
+This is a simple [React Chat App]([https://create-react-app.dev/](https://reactjs.org/)) project bootstrapped with [`Create React App`](https://create-react-app.dev/).
 
 ## Getting Started
 
@@ -10,12 +11,11 @@ ii) npm start.
 ```
 
 
-2) Run client on a different terminal:.
+2) On a different terminal, run the client:
 
 ```
 i) cd client
 ii) nmp start
-
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser on two separate tabs/windows and chat.
