@@ -1,4 +1,4 @@
-#BChat - A simple React Chat App.
+###BChat - A simple React Chat App.
 This is a simple [React Chat App]([https://create-react-app.dev/](https://reactjs.org/)) project bootstrapped with [`Create React App`](https://create-react-app.dev/).
 
 ## Getting Started
