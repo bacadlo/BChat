@@ -18,7 +18,7 @@ i) cd client
 ii) nmp start
 ```
 
-3) Open [http://localhost:3000](http://localhost:3000) with your browser on two separate tabs/windows.
+3) Open [http://localhost:3000](http://localhost:3000) with your browser on two or more tabs/windows.
 
 4) Enter Name and same room ID to chat
 
