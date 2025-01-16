@@ -1,5 +1,5 @@
 # BChat - A simple React Chat App.
-This is a simple [React App](https://reactjs.org/) project bootstrapped with [`Create React App`](https://create-react-app.dev/).
+This is a simple [React App](https://reactjs.org/) project 
 
 ## Getting Started
 
